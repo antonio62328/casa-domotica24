@@ -1,0 +1,17 @@
+{
+  "name": "Casa Domotica",
+  "short_name": "Domotica",
+  "description": "Gestisci tutti i tuoi dispositivi smart",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "theme_color": "#1e3a8a",
+  "background_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
